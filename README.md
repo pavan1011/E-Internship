@@ -1,1 +1,1 @@
-This project contains all assigment submissions for the e-internship program undertaken by The Inkers
+This project is for submitting assignments as part of the E-Internship program by The Inkers
